@@ -1,1 +1,1 @@
-# fastest-rag-stack
+# Fastest RAG Stack
